@@ -4,6 +4,8 @@
 Program to create and design an android application Send SMS using Intent.
 
 Developed by: JEEVAPRIYA R
+
+
 Registeration Number : 212222220018
 
 
